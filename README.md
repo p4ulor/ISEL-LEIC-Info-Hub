@@ -3,7 +3,7 @@
 3. Em algumas partes dou conselhos e afirmações que são apenas a minha opinião!
 
 <p align="center">
-  <img style="max-width: 200px" src="logo.png" />
+  <img style="width: 200px" src="logo.png" />
 </p>
 
 ## Repos com vários trabalhos feitos
@@ -133,7 +133,7 @@ A maioria não tem o relatórios e outros documentos (por alguma razão). Mas o 
 - https://github.com/AndreGraca3/TVS-Trab
 - https://github.com/RicardoPinto26/ISEL-LEIC-TVS-ALL_TEST_SOLUTIONS
 
-### Opcionais - Computação na Nuvem (opcional)
+### Opcionais - Computação na Nuvem
 - https://github.com/bodybuilders-team/isel-leic-cn-g03
 - https://github.com/DanCas09/CN
 - https://github.com/franciscoengenheiro/cloud-computing-gcp
