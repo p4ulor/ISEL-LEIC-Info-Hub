@@ -12,6 +12,7 @@
 - https://github.com/RuiPacas/ISEL_Projects
 - https://github.com/LuisGuerraa/BscInformaticsWork
 - https://github.com/roby2014/uni-projects
+- https://github.com/PedroDiz/Semestre-de-Verao
 
 ## Notas da matéria para cada cadeira
 - https://github.com/andre-j3sus/isel-leic-notes
@@ -30,67 +31,114 @@ A maioria não tem o relatórios e outros documentos (por alguma razão). Mas o 
 - https://github.com/DanCas09/Market-Tracker
 
 # Repos individuais de trabalhos
-### Segurança informática
-- https://github.com/bodybuilders-team/isel-leic-seginf-g03
-- https://github.com/RaulJCS5/seguranca-informatica
-- https://github.com/Ricardo-Bernardino-dev/SegInf-2223
-- https://github.com/RicardoPinto26/ISEL-LEIC-SEGINF-ALL_TEST_SOLUTIONS
+### Sem 1 - Programação
+- https://github.com/franciscoengenheiro/space-invaders-app
+- https://github.com/tomasbarroso2000/PG_Trabalho3_Arkanoid
 
-### Laboratório de Software
-- https://github.com/p4ulor/Sports-Manager
-- https://github.com/bodybuilders-team/sports-api
-- https://github.com/Ricardo-Bernardino-dev/LS_Project_G08
+### Sem 2 - Laboratório de Informática e Computadores
+- https://github.com/Ricardo-Bernardino-dev/VendingMachine
+- https://github.com/Sideghost/Vending_Machine_LIC
+- https://github.com/franciscoengenheiro/ticket-machine-fpga
+- https://github.com/miguelalmeida2/RouletteGame
+- https://github.com/AndreGraca3/LIC-PROJECT
+- https://github.com/bmtavares/isel-lic-kt
 
-### Introdução a Programação na Web
-- https://github.com/p4ulor/Movies-Manager
-- https://github.com/franciscoengenheiro/chelas-movies-database
-- https://github.com/bodybuilders-team/borga
-- https://github.com/Battleships-App/App
-- https://github.com/miguelalmeida2/borga
-- https://github.com/RicardoPinto26/borga
-
-### Linguagens e Ambientes de Execução
-- https://github.com/tomasbarroso2000/jsonaif-i41d_08
-- https://github.com/miguelalmeida2/jsonParserLib
-- https://github.com/RicardoPinto26/ISEL-LEIC-LAE-ALL_EXAM_SOLUTIONS
-
-### Desenvolvimento de Aplicações Web
-- https://github.com/p4ulor/Battleships
-- https://github.com/bodybuilders-team/battleships-web
-- https://github.com/RaulJCS5/Battleship-web
-- https://github.com/RicardoPinto26/ISEL-LEIC-DAW-ALL_TEST_SOLUTIONS
-
-### Programação Concurrente
-- https://github.com/p4ulor/Concurrent-Programming
-
-### Programação em Dispositivos Móveis
-- https://github.com/p4ulor/Android
-- https://github.com/p4ulor/Chess4Android
-- https://github.com/bodybuilders-team/battleships-mobile
-- https://github.com/Battleships-App/App
-- https://github.com/dvsshadow/DrawAndGuess
-- https://github.com/RaulJCS5/Battleship-android
-
-### Algoritmos e Estruturas de Dados
+### Sem 2 - Algoritmos e Estruturas de Dados
 - https://github.com/xploitedd/AED-1920
 - https://github.com/andre-j3sus/algorithms-and-data-structures
 
-### Técnicas de Virtualização de Sistemas
-- https://github.com/p4ulor/Operating-Systems
-- https://github.com/RicardoPinto26/ISEL-LEIC-TVS-ALL_TEST_SOLUTIONS
+### Sem 3 - Introdução a Programação na Web
+- https://github.com/p4ulor/Movies-Manager
+- https://github.com/franciscoengenheiro/chelas-movies-database
+- https://github.com/Battleships-App/App
+- https://github.com/bodybuilders-team/borga
+- https://github.com/miguelalmeida2/borga
+- https://github.com/RicardoPinto26/borga
+- https://github.com/PiniponSelvagem/PI-1920v-LI51N-G06
+- https://github.com/AndreGraca3/IPW-Trab
 
-### Sistemas de Informação 2
-- https://github.com/p4ulor/Game-Manager-w-PostgreSQL
-
-### Técnicas de Desenvolvimento de Software
+### Sem 3 - Técnicas de Desenvolvimento de Software
 - https://github.com/bodybuilders-team/desktop-chess
 - https://github.com/miguelalmeida2/chess4desktop
+- https://github.com/AndreGraca3/TDS-Trab-checkers
+- https://github.com/franciscoengenheiro/desktop-checkers-app
 - https://github.com/RicardoPinto26/ISEL-LEIC-TDS-ALL_EXAM_SOLUTIONS
 
-### Computação na Nuvem (opcional)
-- https://github.com/bodybuilders-team/isel-leic-cn-g03
+### Sem 3 - Programação em Sistemas Computacionais
+- https://github.com/p4ulor/C-language-and-Assembly
+- https://github.com/PiniponSelvagem/football_data
+- https://github.com/xploitedd/PSC-1920
+- https://github.com/AndreGraca3/PSC-Trab3
+- https://github.com/tomasbarroso2000/psc-2223
 
-### Inteligência Artificial
+### Sem 3 - Introdução a Sistemas de Informação
+- https://github.com/AndreGraca3/ISI-Trab2
+- https://github.com/AndreGraca3/ISI-Trab3
+
+### Sem 4 - Laboratório de Software
+- https://github.com/p4ulor/Sports-Manager
+- https://github.com/bodybuilders-team/sports-api
+- https://github.com/Ricardo-Bernardino-dev/LS_Project_G08
+- https://github.com/DanCas09/LS
+- https://github.com/bmtavares/isel-ls
+
+### Sem 4 - Sistemas de Informação (2)
+- https://github.com/p4ulor/Game-Manager-w-PostgreSQL
+- https://github.com/DanCas09/SI
+
+### Sem 4 - Linguagens e Ambientes de Execução
+- https://github.com/tomasbarroso2000/jsonaif-i41d_08
+- https://github.com/miguelalmeida2/jsonParserLib
+- https://github.com/AndreGraca3/autorouter
+- https://github.com/RicardoPinto26/ISEL-LEIC-LAE-ALL_EXAM_SOLUTIONS
+
+### Sem 4 - Programação Concorrente
+- https://github.com/p4ulor/Concurrent-Programming
+- https://github.com/AdMorgado/pc_irc
+- https://github.com/PiniponSelvagem/PC_2020_41429
+- https://github.com/AndreGraca3/PC-Series
+- https://github.com/AndreGraca3/Suspendable-Server
+- https://github.com/franciscoengenheiro/concurrent-problem-sets
+
+### Sem 5 - Segurança informática
+- https://github.com/bodybuilders-team/isel-leic-seginf-g03
+- https://github.com/RaulJCS5/seguranca-informatica
+- https://github.com/Ricardo-Bernardino-dev/SegInf-2223
+- https://github.com/AndreGraca3/security-assignment
+- https://github.com/RicardoPinto26/ISEL-LEIC-SEGINF-ALL_TEST_SOLUTIONS
+
+### Sem 5 - Desenvolvimento de Aplicações Web
+- https://github.com/p4ulor/Battleships
+- https://github.com/bodybuilders-team/battleships-web
+- https://github.com/RaulJCS5/Battleship-web
+- https://github.com/RodrigoNevesWork/ISEL_DAW_Project-main
+- https://github.com/p4ulor/Web-Application-Development
+- https://github.com/RicardoPinto26/ISEL-LEIC-DAW-ALL_TEST_SOLUTIONS
+- https://github.com/PedroDiz/ESTUDO-DAW
+
+### Sem 5 - Programação em Dispositivos Móveis
+- https://github.com/p4ulor/Android
+- https://github.com/p4ulor/Chess4Android
+- https://github.com/DanCas09/PDM
+- https://github.com/xploitedd/DrawAndGuess
+- https://github.com/bodybuilders-team/battleships-mobile
+- https://github.com/RodrigoNevesWork/BattleshipAndroid
+- https://github.com/Battleships-App/App
+- https://github.com/dvsshadow/DrawAndGuess
+- https://github.com/RaulJCS5/Battleship-android
+- https://github.com/AndreGraca3/StopWatch-Android
+
+### Sem 5 - Técnicas de Virtualização de Sistemas
+- https://github.com/p4ulor/Operating-Systems
+- https://github.com/AndreGraca3/TVS-Trab
+- https://github.com/RicardoPinto26/ISEL-LEIC-TVS-ALL_TEST_SOLUTIONS
+
+### Opcionais - Computação na Nuvem (opcional)
+- https://github.com/bodybuilders-team/isel-leic-cn-g03
+- https://github.com/DanCas09/CN
+- https://github.com/franciscoengenheiro/cloud-computing-gcp
+
+### Opcionais - Inteligência Artificial
 - https://github.com/bodybuilders-team/isel-leic-ia-g03
 
 ## Navegação e mentalidade que deves ter e problemas do curso
