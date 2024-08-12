@@ -1,10 +1,16 @@
 1. Partilho várias infos sobre o curso de LEIC do ISEL e uma série de links para trabalhos finais de curso e outros
 2. Incluí imagens e documentos úteis
 3. Em algumas partes dou conselhos e afirmações que são apenas a minha opinião!
+4. Estão à vontade para fazer pull requests
+5. DM para convite de servidores do discord e meme pack
 
-<p align="center">
-  <img style="width: 200px" src="logo.png" />
-</p>
+<div style="position: relative; height: 250px;">
+  <img src="Pics/extra/1.jpg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.8;" />
+  
+  <p align="center">
+    <img style="width: 200px; opacity:0.8" src="Pics/logo.png" />
+  </p>
+</div>
 
 ## Repos com vários trabalhos feitos
 - https://github.com/sputnikbipbip/ISEL_Projects
@@ -16,6 +22,10 @@
 
 ## Notas da matéria para cada cadeira
 - https://github.com/andre-j3sus/isel-leic-notes
+
+<p align="center">
+    <img style="height: 300px" src="Pics/extra/2.jpg" />
+</p>
 
 ## Trabalhos finais de curso (Projeto e Seminário)
 A maioria não tem o relatórios e outros documentos (por alguma razão). Mas o professor de Projeto e Seminário disponibiliza vários exemplos de relatório, cartazes e outras coisas
@@ -141,22 +151,37 @@ A maioria não tem o relatórios e outros documentos (por alguma razão). Mas o 
 ### Opcionais - Inteligência Artificial
 - https://github.com/bodybuilders-team/isel-leic-ia-g03
 
+<p align="center">
+  <img style="width: 600px" src="Pics/Plano_NOVO_Diagrama_LEIC.png" />
+</p>
+
+<p align="center">
+  <img style="width: 600px" src="Pics/Plano_NOVO_2021.png" />
+</p>
+
 ## Navegação e mentalidade que deves ter e problemas do curso
-- Só te tens a ti. Mas pede ajuda aos professores para aprenderes mais rapido
-- Tenta fazer amigos com malta dedicada, com sentido de união e que sejam bom comunicadores. De forma a fazer grupos.
+- Tu tens de ser a pessoa que mais confias! Mas pede ajuda aos professores para aprenderes mais rapido
+- Tenta fazer amigos com malta dedicada, com sentido de união e que sejam bom comunicadores. De forma a fazer bons grupos.
 - Senta-te sempre nos lugares da frente. É onde costumam estar os melhores colegas que podes conhecer, estarás mais atento e a comunicação com o professor será muito melhor.
-- Tenta ler os livros mencionados nas bibliografias das cadeiras. Mas há sempre muita coisa que pode ser irrelevante. Isto depende de cadeira a cadeira. Pergunta ao prof
+- Tenta ler os livros mencionados nas bibliografias das cadeiras. Mas há sempre muita coisa que pode ser irrelevante. Isto depende de cadeira a cadeira. Pergunta ao prof. Podes obter 99% dos livros online e gratuitamente.
 - Começa a fazer os trabalhos o mais cedo possível, não adies, normalmente occorrem sempre imprevistos. E vai mostrando o que tens feito do trabalho aos professores
-- No começo tens de aprender a ser eficiente em pesquisar informação. 
+- Tens de aprender a ser eficiente em pesquisar informação. 
+- Aprende a escrever depresa a e a usar atalhos de teclado
 - Documenta bem os teus trabalhos e as decisões que fazes. Isto ajuda-te a ti e aos outros
-- Usa o git (e github) para armazenar e trackear os teus trabalhos e progresso
+- Usa o git (e github) para armazenar e trackear os teus trabalhos e progresso. Podes aprender muita coisa e encontrar motivação através dos projetos dos outros.
+- Tens de ser muito organizado no que toca a guardar coisas e documentar o teu trabalho. Guardar repos em listas no github, organizar pastas no teu PC, guardar sites nos bookmarks do teu browser, etc. Estar organizado faz com que sejas mais eficiente
+- Luta contra a procastrinação. Reflete o porquê disso acontecer
 - Tenta aprender as coisas o mais cedo possível
 - 50% das coisas que aprendi tive que aprender sozinho. A intenção dos trabalhos costuma ser essa, aprender coisas que o professor não ensinou, mas vai confirmando com ele que está bem
-- 15% das cadeiras não ensinam coisas muito relevantes ou de uso prático. Coisas de Sistemas de Gestao, Matemática ou eletrónica. Há coisas úteis de matemática, mas é mais no contexto de ciência de computação ou em temas específicos e menos prováveis de ocorrer. Mas as cadeiras tem de ser feitas
+- Há cadeiras que ensinam algumas coisas que não são muito relevantes ou de uso prático. Coisas de Sistemas de Gestao, Matemática ou eletrónica. Há coisas úteis de matemática, mas é mais no contexto de ciência de computação ou em temas específicos e menos prováveis de ocorrer. Mas as cadeiras tem de ser feitas. Quanto a eletrónica, estava à espera de aprender muito mais.
 - Extra: traz contigo uma ficha tripla para usares nas salas
 
 ## Vale a pena fazer mestrado?
-- Não. É muito caro. Perdes 2 anos (ou mais), que podiam ter sido usados a ganhar dinheiro e experiência. Hoje em dia as empresas da área de informática estão menos preocupadas com essa cereja no topo do bolo que é um mestrado ou um doutoramento. Experiência prática é melhor e podes aprender muita coisa sozinho através de cursos online e livros. Quando saires de um mestrado, provavelmente vais receber o mesmo que alguém que tenha uma licenciatura, em Portugal
+- Não. É muito caro. Perdes 2 anos (ou mais), que podiam ter sido usados a ganhar dinheiro e experiência. Hoje em dia as empresas da área de informática estão menos preocupadas com essa cereja no topo do bolo que é um mestrado ou um doutoramento. Experiência prática é melhor e podes aprender muita coisa sozinho através de cursos online e livros. Estamos no melhor tempo da história para obter informação e aprender gratuitamente. A licenciatura já te dá uma base para continuares o teu caminho. Quando saires de um mestrado, provavelmente vais receber o mesmo que alguém que tenha uma licenciatura, em Portugal.
+
+<p align="center">
+    <img style="height: 300px" src="Pics/extra/3.jpg" />
+</p>
 
 ## Coisas sobre salários
 - [BD de salarios de programadores tugas](https://docs.google.com/spreadsheets/d/12yRNQll0mQapxsoKyJMCHnc9FuDug7Z9a-yp_TRNCLk/edit#gid=2023106944)
@@ -164,7 +189,7 @@ A maioria não tem o relatórios e outros documentos (por alguma razão). Mas o 
 
 ## Avaliação dos professores (incluí os principais. Minha opinião)
 - ⭐ -> Professor bom, fixe e simpático
-- 💯 -> Professor pro, com grandes conhecimentos e sério
+- 💯 -> Professor mt bom, com grandes conhecimentos e sério
 - ✔️ -> professor bom
 - ❌ -> Professor que deves evitar
 
@@ -182,6 +207,7 @@ A maioria não tem o relatórios e outros documentos (por alguma razão). Mas o 
 - Miguel Gamboa 💯
 - Pedro Félix 💯
 - Ezequiel Conde ✔️ 
+- David Coutinho ✔️
 - Nuno Leite ✔️
 - Mário Simões ✔️ 
 - Luís Assunção ✔️/❌
