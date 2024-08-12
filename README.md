@@ -18,6 +18,9 @@
 
 ## Notas da matéria para cada cadeira
 - https://github.com/andre-j3sus/isel-leic-notes
+- https://github.com/RodrigoHCorreia/2223SV-notes
+- https://github.com/RodrigoHCorreia/2324SI-notes
+- https://github.com/RodrigoHCorreia/2324SV-notes
 
 <p align="center">
     <img style="height: 300px" src="Pics/extra/2.jpg" />
@@ -35,6 +38,7 @@ A maioria não tem o relatórios e outros documentos (por alguma razão). Mas o 
 - https://github.com/lourencovala/CrossWorking
 - https://github.com/intelligent-personalized-care/ipc
 - https://github.com/DanCas09/Market-Tracker
+- https://github.com/AGU-Data-System
 
 # Repos individuais de trabalhos
 ### Sem 1 - Programação
@@ -117,6 +121,7 @@ A maioria não tem o relatórios e outros documentos (por alguma razão). Mas o 
 - https://github.com/p4ulor/Battleships
 - https://github.com/bodybuilders-team/battleships-web
 - https://github.com/RaulJCS5/Battleship-web
+- https://github.com/RodrigoHCorreia/battleship-server
 - https://github.com/RodrigoNevesWork/ISEL_DAW_Project-main
 - https://github.com/p4ulor/Web-Application-Development
 - https://github.com/RicardoPinto26/ISEL-LEIC-DAW-ALL_TEST_SOLUTIONS
@@ -129,6 +134,7 @@ A maioria não tem o relatórios e outros documentos (por alguma razão). Mas o 
 - https://github.com/xploitedd/DrawAndGuess
 - https://github.com/bodybuilders-team/battleships-mobile
 - https://github.com/RodrigoNevesWork/BattleshipAndroid
+- https://github.com/RodrigoHCorreia/battleship-mobile
 - https://github.com/Battleships-App/App
 - https://github.com/dvsshadow/DrawAndGuess
 - https://github.com/RaulJCS5/Battleship-android
