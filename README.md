@@ -4,13 +4,9 @@
 4. Estão à vontade para fazer pull requests
 5. DM para convite de servidores do discord e meme pack
 
-<div style="position: relative; height: 250px;">
-  <img src="Pics/extra/1.jpg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.8;" />
-  
-  <p align="center">
-    <img style="width: 200px; opacity:0.8" src="Pics/logo.png" />
-  </p>
-</div>
+<p align="center">
+    <img style="max-height: 300px" src="Pics/extra/1.jpg" />
+</p>
 
 ## Repos com vários trabalhos feitos
 - https://github.com/sputnikbipbip/ISEL_Projects
