@@ -46,6 +46,9 @@ A maioria não tem o relatórios e outros documentos (por alguma razão). Mas o 
 - https://github.com/franciscoengenheiro/space-invaders-app
 - https://github.com/tomasbarroso2000/PG_Trabalho3_Arkanoid
 
+### Sem 1 - Lógica e Sistemas Digitais
+- https://github.com/p4ulor/Eletronics-n-Computer-Design/tree/main/Subject_LSD
+
 ### Sem 2 - Laboratório de Informática e Computadores
 - https://github.com/Ricardo-Bernardino-dev/VendingMachine
 - https://github.com/Sideghost/Vending_Machine_LIC
@@ -53,6 +56,10 @@ A maioria não tem o relatórios e outros documentos (por alguma razão). Mas o 
 - https://github.com/miguelalmeida2/RouletteGame
 - https://github.com/AndreGraca3/LIC-PROJECT
 - https://github.com/bmtavares/isel-lic-kt
+- https://github.com/p4ulor/Eletronics-n-Computer-Design/tree/main/Subject_LIC
+
+## Sem 2 - Arquitetura de Computadores
+- https://github.com/p4ulor/Eletronics-n-Computer-Design/tree/main/Subject_AC
 
 ### Sem 2 - Algoritmos e Estruturas de Dados
 - https://github.com/xploitedd/AED-1920
