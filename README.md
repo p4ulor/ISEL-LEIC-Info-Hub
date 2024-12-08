@@ -22,6 +22,9 @@
 - https://github.com/RodrigoHCorreia/2324SI-notes
 - https://github.com/RodrigoHCorreia/2324SV-notes
 
+## Site que tem varios trabalhos feitos e docs
+- https://www.studocu.com/pt/institution/instituto-politecnico-de-lisboa/8144?origin=document-viewer
+
 <p align="center">
     <img style="height: 300px" src="Pics/extra/2.jpg" />
 </p>
