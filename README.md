@@ -77,6 +77,7 @@ A maioria não tem o relatórios e outros documentos (por alguma razão). Mas o 
 - https://github.com/RicardoPinto26/borga
 - https://github.com/PiniponSelvagem/PI-1920v-LI51N-G06
 - https://github.com/AndreGraca3/IPW-Trab
+- https://github.com/TiagoPereira06/EDU_Cota
 
 ### Sem 3 - Técnicas de Desenvolvimento de Software
 - https://github.com/bodybuilders-team/desktop-chess
